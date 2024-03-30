@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class HollowApplication {
 
 	public static void main(String[] args) {
-		//demo
+		
 		SpringApplication.run(HollowApplication.class, args);
 	}
 
